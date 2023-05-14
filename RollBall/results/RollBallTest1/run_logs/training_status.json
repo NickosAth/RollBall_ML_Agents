@@ -1,0 +1,29 @@
+{
+    "RollBall": {
+        "checkpoints": [
+            {
+                "steps": 120042,
+                "file_path": "results\\RollBallTest1\\RollBall\\RollBall-120042.onnx",
+                "reward": 1.0,
+                "creation_time": 1682288679.848167,
+                "auxillary_file_paths": [
+                    "results\\RollBallTest1\\RollBall\\RollBall-120042.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 120042,
+            "file_path": "results\\RollBallTest1\\RollBall.onnx",
+            "reward": 1.0,
+            "creation_time": 1682288679.848167,
+            "auxillary_file_paths": [
+                "results\\RollBallTest1\\RollBall\\RollBall-120042.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.8.0+cpu"
+    }
+}
